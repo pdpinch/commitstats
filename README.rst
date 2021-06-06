@@ -10,6 +10,10 @@ How to collect conventional commit stats:
 #. Install repo-tools (https://github.com/edx/repo-tools) into your current
    virtualenv.
 
+#. Source gittools.sh for some useful aliases::
+
+   $ source gittools.sh
+
 #. (if needed) Create a directory called "edx"
 
 #. cd into edx.
